@@ -84,7 +84,7 @@ npm install
 PORT=3001
 JWT_SECRET=sua_chave_secreta_muito_segura_aqui
 NODE_ENV=development
-FRONTEND_URL=http://localhost:5173
+FRONTEND_URL=http://localhost:5174
 ```
 
 **Frontend** — crie `clinica-app/frontend/.env`:
